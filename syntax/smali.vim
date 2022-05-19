@@ -11,6 +11,7 @@ endif
 
 set iskeyword+=.
 set iskeyword+=-
+set iskeyword+=/
 
 syn keyword     sDirective  .annotation .array-data .catch .catchall .class .enum .epilogue .field .implements .line .local .locals .method .packed-switch .parameter .prologue .registers .restart .source .sparse-switch .subannotation .super
 syn keyword     sKeyword    abstract annotation bridge constructor declared-synchronized enum final interface native private protected public static strictfp synchronized synthetic system transient varargs volatile
