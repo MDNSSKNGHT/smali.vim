@@ -1,7 +1,8 @@
 " Vim syntax file
 " Language:	Smali
-" Maintainer:   Angel Alonso <alderzdev@gmail.com>
-" Last Change:	2011 Jun 27
+" Author:	Angel Alonso <alderzdev@gmail.com>
+" Maintainer:	Leonardo Estacio <mdnssknght@gmail.com>
+" Last Change:	2022 May 18
 
 " Quit when a (custom) syntax file was already loaded
 if exists("b:current_syntax")
